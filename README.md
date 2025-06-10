@@ -212,4 +212,4 @@ To add and use the ShadCN `Button` component in your project, follow these steps
 
 Here is a screenshot of the workspace structure:
 
-![Workspace Structure](../Screenshot%202025-06-10%20at%2017.38.04.png)
+![Workspace Structure](screen.png)
