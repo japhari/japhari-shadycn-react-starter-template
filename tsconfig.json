@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./", // Sets the base directory for resolving non-relative module names
+    "paths": {
+      "@/*": ["src/*"] // Maps the alias '@/' to the 'src' directory
+    }
+  },
+  "include": [
+    "src" // Includes all files in the 'src' directory for the TypeScript compiler
+  ]
+}
